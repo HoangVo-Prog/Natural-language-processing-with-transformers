@@ -1,8 +1,8 @@
 2025-04-15 10:53
 
-Status: [[Transformers]] [[Applications]]
+Status: [[Reading Books]]
 
-Tags: [[Natural-language-processing-with-transformers-revised-edition.pdf]]  [[Text Classification]]
+Tags: [[Natural-language-processing-with-transformers-revised-edition.pdf]]  [[Text Classification]] [[HuggingFace]] [[Transformers]] [[Applications]]
 
 Pages: 21 - 55
 
@@ -519,3 +519,4 @@ More challenges are coming!
 - No labels? -> No fine-tuning -> What to do then?
 # Reference
 [[Natural-language-processing-with-transformers-revised-edition.pdf]]
+https://github.com/nlp-with-transformers/notebooks
